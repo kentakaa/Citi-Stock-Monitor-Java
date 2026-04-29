@@ -18,7 +18,7 @@ As a simulated Software Engineer at Citi, I was tasked with creating a tool to m
 - **Libraries:** YahooFinanceAPI (Simulation mode), Google Guava, JUnit 5
 
 ## 📸 Dashboard Preview
-![Dashboard Demo]  
+![Dashboard Demo]  https://s6.ezgif.com/tmp/ezgif-68e529ae410e4632.gif
 
 
 ## ⚙️ Installation & Usage
